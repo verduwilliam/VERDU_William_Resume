@@ -7,7 +7,7 @@
  */
 
 body {
-  background-color: #f2f2f2;
+  background-color: #DEFFF1;
     font-family: "Lato";
     font-weight: 300;
     font-size: 16px;
@@ -21,7 +21,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Raleway";
     font-weight: 300;
-    color: #333;
+    color: #2c405d;
 }
 
 
@@ -184,13 +184,13 @@ a:after {
 
 #headerwrap h1 {
 	font-size: 80px;
-	color: white;
+	color: #c9ffe7;
   font-weight: bold;
 }
 
 #headerwrap h3 {
 	font-size: 20px;
-	color: white;
+	color: #c9ffe7;
   font-weight: bold;
 }
 
@@ -207,8 +207,8 @@ a:after {
 /* Intnro Wrap */
 
 #intro {
-	background-color: #2c3e50;
-	padding-top: 60px;
+	background-color: #2c405d;
+	padding-top: 100px;
 	padding-bottom: 60px;
 	color: white;
 }
@@ -226,8 +226,8 @@ a:after {
 
 
 #skillswrap {
-	background-color: #2c3e50;
-	padding-top: 60px;
+	background-color: #2c405d;
+	padding-top: 100px;
 	padding-bottom: 60px;
 	color: white;
 }
@@ -238,7 +238,7 @@ a:after {
 
 #footwrap {
 	background-color: #2f2f2f;
-	padding-top: 50px;
+	padding-top: 100px;
 	padding-bottom: 50px;
 }
 
@@ -260,24 +260,10 @@ a:after {
 	color: #1abc9c;
 }
 
-/* Copyright Wrap */
-
-#c {
-	background-color: #222222;
-	padding-top: 15px;
-	text-align: right;
-}
-
-#c p {
-	color: white
-}
-
-
-
 /* Global Values */
 
 .desc {
-	padding-top: 50px;
+	padding-top: 100px;
 }
 
 .desc p {
@@ -319,7 +305,7 @@ textarea {
 
 .txtcontact {
   margin-bottom: 0.5em;
-  background-color: #95a5a6;
+  background-color: #c9ffe7;
 }
 
 .txtcontact:focus {
@@ -328,12 +314,12 @@ textarea {
 
 .buttons {
   color: white;
-  background-color: #34495e;
+  background-color: #2c405d;
   width: 25%;
   margin-left: 12.5%;
 }
 
 .buttons:hover {
   color: black;
-  background-color: #95a5a6;
+  background-color: #c9ffe7;
 }
