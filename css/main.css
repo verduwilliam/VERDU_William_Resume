@@ -323,3 +323,13 @@ textarea {
   color: black;
   background-color: #c9ffe7;
 }
+
+/*skills*/
+
+#logohtml,
+#logocss,
+#logojs,
+#logobootstrap,
+#logogimp {
+  width: 75%;
+}
