@@ -229,7 +229,6 @@ a:after {
 	background-color: #2c405d;
 	padding-top: 100px;
 	padding-bottom: 60px;
-	color: white;
 }
 
 #skillswrap h5, p {
@@ -331,5 +330,5 @@ textarea {
 #logojs,
 #logobootstrap,
 #logogimp {
-  width: 75%;
+  width: 50%;
 }
