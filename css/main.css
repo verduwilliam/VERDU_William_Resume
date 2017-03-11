@@ -210,10 +210,12 @@ a:after {
 #flag {
   width: 40px;
   transition-duration: 0.5s;
+  border-radius: 5px;
 }
 
 #flag:hover {
   width: 60px;
+  margin-left: -10px;
 }
 
 /* Intnro Wrap */
