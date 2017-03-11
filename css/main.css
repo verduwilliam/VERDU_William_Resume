@@ -195,7 +195,10 @@ a:after {
 
 #lang {
   margin-top: -8em;
+  /*padding: 0.7em 1.4em;*/
   position: fixed;
+  /*background-image: url(../img/uk.jpg);
+  background-size: cover;*/
 }
 
 #lang a {
@@ -205,6 +208,10 @@ a:after {
 
 #lang a:hover {
   color: red;
+}
+
+#flag {
+  width: 40px;
 }
 
 /* Intnro Wrap */
