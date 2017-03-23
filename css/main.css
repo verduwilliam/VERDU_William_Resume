@@ -309,6 +309,15 @@ sm {
   width: 50%;
 }
 
+/*Portfolio*/
+#portfoliocontain {
+  padding-bottom: 200px;
+}
+
+.portfolioimg {
+  width: 100%;
+}
+
 /*Form*/
 
 legend {
