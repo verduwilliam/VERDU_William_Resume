@@ -354,7 +354,7 @@ textarea {
 
 /*media queries*/
 
-@media all and (max-width:316px) {
+@media all and (max-width:380px) {
   #lang {
     margin-top: -4em;
   }
